@@ -29,3 +29,12 @@ Now, I choose 2 maid cafe from 4 in Guangzhou for spending the afternoon and nig
 
 
 ![4](http://latex.codecogs.com/svg.latex?A^n_m=\frac{4!}{(2)!}=12)
+
+
+For using this programme, we need to open a cmd windows at the root position containing this file. Replace the {n} and {m} with your number.
+
+
+    python combination.py {n} {m}
+    
+    
+There are only this function now and will update soon.
